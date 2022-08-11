@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @m-divis
+- 👀 I’m interested in programing
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on nothing
+- 📫 How to reach me discord (Mejt# 2392)
