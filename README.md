@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @m-divis
-- 👀 I’m interested in programing
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me discord (Mejt #2392)
+# Matyáš Jan Diviš
+
+I am a 1? student interested in programming especially data analitcs.
